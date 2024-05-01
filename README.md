@@ -3,5 +3,5 @@
 # How to use
 
 ```
-docker run
+docker compose up
 ```
